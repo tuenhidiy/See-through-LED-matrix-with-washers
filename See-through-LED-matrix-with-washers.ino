@@ -30,8 +30,8 @@ Date: 2021-Jan-12
 
 #define BAM_RESOLUTION  4
 
-const char *WIFI_NETWORK_NAME = "FTPTelecom";     // Change to your wifi network name
-const char *WIFI_PASSWORD     = "12345689";       // Change to your wifi password
+const char *WIFI_NETWORK_NAME = "FPTTelecom";     // Change to your wifi network name
+const char *WIFI_PASSWORD     = "12345678";       // Change to your wifi password
 
 const char *TIME_SERVER       = "asia.pool.ntp.org";
 int myTimeZone = VST;       // change this to your time zone (see in timezone.h)
